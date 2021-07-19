@@ -1,3 +1,4 @@
+
 class GoodsDao {
 	public void insertGoods(){
 		System.out.println("등록하였습니다!");
